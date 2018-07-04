@@ -1,2 +1,3 @@
-# blog-page
-First task Binary 2018
+# Blogpage
+It is example blog page only on HTML, CSS.
+
